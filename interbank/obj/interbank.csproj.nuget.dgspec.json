@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dabaj/Documents/interbank/interbank.csproj": {}
+  },
+  "projects": {
+    "/home/dabaj/Documents/interbank/interbank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dabaj/Documents/interbank/interbank.csproj",
+        "projectName": "interbank",
+        "projectPath": "/home/dabaj/Documents/interbank/interbank.csproj",
+        "packagesPath": "/home/dabaj/.nuget/packages/",
+        "outputPath": "/home/dabaj/Documents/interbank/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dabaj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[12.1.2, )"
+            },
+            "Geocoding.Core": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Geocoding.Google": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

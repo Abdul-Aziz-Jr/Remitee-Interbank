@@ -1,0 +1,16 @@
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/interbank
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/interbank.deps.json
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/interbank.runtimeconfig.json
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/interbank.runtimeconfig.dev.json
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/interbank.dll
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/interbank.pdb
+/home/dabaj/Documents/interbank/obj/Debug/netcoreapp3.0/interbank.csprojAssemblyReference.cache
+/home/dabaj/Documents/interbank/obj/Debug/netcoreapp3.0/interbank.AssemblyInfoInputs.cache
+/home/dabaj/Documents/interbank/obj/Debug/netcoreapp3.0/interbank.AssemblyInfo.cs
+/home/dabaj/Documents/interbank/obj/Debug/netcoreapp3.0/interbank.dll
+/home/dabaj/Documents/interbank/obj/Debug/netcoreapp3.0/interbank.pdb
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/CsvHelper.dll
+/home/dabaj/Documents/interbank/obj/Debug/netcoreapp3.0/interbank.csproj.CopyComplete
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/Geocoding.Core.dll
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/Geocoding.Google.dll
+/home/dabaj/Documents/interbank/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
